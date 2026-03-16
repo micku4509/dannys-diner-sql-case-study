@@ -1,5 +1,5 @@
-#CASe Study QuestiONs
-#Each of the following cASe study questiONs can be answered using a single SQL statement
+#Case Study Questions
+#Each of the following case study questiONs can be answered using a single SQL statement
 use dannys_diner;
 SELECT * FROM sales;
 SELECT * FROM menu;
