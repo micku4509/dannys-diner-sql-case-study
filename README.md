@@ -8,7 +8,7 @@ The objective is to analyze customer purchasing behavior using SQL.
 - MySQL
 - SQL (Joins, CTEs, Window Functions)
 
-## 📂 Dataset Description
+## 📂 Dataset Description 
 The database consists of three tables:
 - `sales` – customer purchases
 - `menu` – product details
